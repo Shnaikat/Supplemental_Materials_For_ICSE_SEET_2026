@@ -1,1 +1,43 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated paper."
+title: "Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses"
+type: software
+authors:
+  - family-names: <Shnaikat>
+    given-names: <Khawla>
+  - family-names: <Barcomb>
+    given-names: <Ann>
+  - family-names: <Marasco>
+    given-names: <Emily>
 
+repository-code: https://github.com/<your-org-or-username>/<repo-name>
+
+abstract: >
+  Supplemental materials for an interview-based qualitative study examining
+  executive function demands and self-regulated learning in software engineering
+  courses, including an EF--SRL--LMS alignment matrix and coding artifacts.
+
+keywords:
+  - executive function
+  - self-regulated learning
+  - learning management systems
+  - software engineering education
+  - neurodiversity
+  - qualitative research
+
+license: CC-BY-4.0
+
+preferred-citation:
+  type: conference-paper
+  title: "Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses"
+  authors:
+  - family-names: <Shnaikat>
+    given-names: <Khawla>
+  - family-names: <Barcomb>
+    given-names: <Ann>
+  - family-names: <Marasco>
+    given-names: <Emily>
+  conference:
+    name: "IEEE/ACM International Conference on Software Engineering – Software Engineering Education and Training (ICSE SEET)"
+  year: 2026
+  status: forthcoming
