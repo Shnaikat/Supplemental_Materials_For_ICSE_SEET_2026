@@ -1,12 +1,8 @@
-# se-lms-codebook-under-review
-# RTA Codebook (Under Review)
-
-This repository hosts the **reflexive thematic analysis (RTA) codebook** for our study on engineering students experiencing executive function (EF) challenges while studying SE courses courses’ learning in relation to software engineering.
-
-> **Status:** The associated manuscript is **submitted and under review**. This repo provides a stable version of the codebook; updates may follow reviewer feedback.
+This repository hosts supplemental materials for the paper “Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses,” to be published at the ICSE SEET 2026 conference.
 
 ## Contents
-- `codebook/CodeBook_AllInterviews_EF_Research_V03_Sept20-2025.xlsx` — **single Excel file** with all themes and codes.
+- `CodeBook_AllInterviews_EF_Research_V03_Sept20-2025.xlsx` — **single Excel file** with all themes and codes.
+- 'Semi-Structured-Interviews-Questions.docx'- ** Contains the semi-structured interviews questions.
 - `LICENSE` — recommended: **CC BY 4.0**.
 - `README.md` — this file.
 
@@ -26,6 +22,9 @@ We recommend **Creative Commons Attribution 4.0 (CC BY 4.0)** so others may reus
 - **No raw transcripts** or identifying information are included.
 - Please do not attempt re-identification.
 
+## Citation
+If you use these materials, please cite the paper listed in `CITATION.cff`.
+
 ## Contact
-Maintainer: Anonymous — anonymous@domain.com  
-Institution: Anonymous
+Maintainer: Khawla Shnaikat — khawla.shnaikat@ucalgary.ca 
+Institution: University of Calgary
