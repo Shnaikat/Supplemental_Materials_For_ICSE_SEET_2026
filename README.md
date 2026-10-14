@@ -1,4 +1,4 @@
-This repository hosts supplemental materials for the paper “Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses,” to be published at the ICSE SEET 2026 conference.
+This repository hosts supplemental materials for the paper “Why Students Leave the LMS: Executive Function Demands and Self-Regulated Learning in Software Engineering Courses,” published at the ICSE SEET 2026 conference.
 
 ## Contents
 - `CodeBook_AllInterviews_EF_Research_V03_Sept20-2025.xlsx` — **single Excel file** with all themes and codes.
